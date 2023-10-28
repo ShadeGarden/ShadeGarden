@@ -15,7 +15,7 @@
     <ul id="repository-list"></ul>
     <script>
          const username = "ShadeGarden";
-          fetch(`https://api.github.com/users/${username}/repos`)
+          fetch(`https://api.github.com/users/${Shadegarden}/repos`)
             .then(response => response.json())
             .then(data => {
                 const repositoryList = document.getElementById("repository-list");
