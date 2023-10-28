@@ -7,11 +7,14 @@
   <img alt="rafa-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="rafa-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="rafa-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadeGarden&layout=compact&langs_count=7&theme=algolia"/>
+
 </div>
 </head>
 <body>
   <div style="text-align: center;">
-  <img alt="Programador" height="360" width="480" src="https://github.com/kazuyabr/kazuyabr/blob/main/programador.gif">
+ 
+ <img alt="Programador" height="360" width="480" src="https://github.com/kazuyabr/kazuyabr/blob/main/programador.gif">
 </div>
 </body>
 </html>
